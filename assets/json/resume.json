@@ -1,77 +1,87 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "TriggerMesh, 2022-Present",
+      "position": "Senior product manager, cloud-native integration platform",
+      "url": "https://triggermesh.com",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Reached product-market fit for DevOps teams creating multicloud, serverless event-driven applications.",
       "highlights": [
-        "Relativity"
+        "Based on data and market analysis, formulated a strategy that included personas, uses cases, vision, and a timeframe. Executed with new features, messaging, documentation, and product launch.",
+        "Designed and shipped new developer tools (CLI, event broker, K8s operator, monitoring console) as part of regular value-driven releases for which I set the cadence.",
+        "Planted seed for contracts and multiple partnerships. Knew to say NO when it mattered most.",
+        "Published on influential websites and partner blogs (thought leadership and product tutorials) to drive brand awareness and adoption.",
+        "Got early feedback on major features, ran user testing campaigns and created clickable prototypes.",
+        "Created meaningful relationships with our community on multiple platforms (Slack, LinkedIn, GitHub)"
+      ]
+    },
+    {
+      "name": "Talend, 2017-2022",
+      "position": "Senior product manager, API and application integration",
+      "url": "https://talend.com",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Launched Talend’s lucrative new API products with capabilities brought in from Restlet.",
+      "highlights": [
+        "Led API, app integration, and microservice products, including Restlet’s newly integrated tools.",
+        "Grew new product from 0 to 10M ARR in 2 years, helped land $500k deals.",
+        "Landed Talend in Gartner’s iPaaS Magic Quadrant.",
+        "Modernised our product to support cloud-native, microservice architectures.",
+        "Implemented a feature flipping solution and supporting processes across multiple functions.",
+        "Fostered a more customer-centric product culture through user experience research, design thinking (e.g. design sprints), and HEART metrics for measurable goals and outcomes."
+      ]
+    },
+    {
+      "name": "Restlet, 2014-2017",
+      "position": "Product Owner & Software Engineer, Restlet Cloud and Restlet Studio",
+      "url": "https://restlet.com",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Launched category-leading API management tools through a freemium, product-led GTM.",
+      "highlights": [
+        "Led the design, launch and growth of the first ever graphical REST API design tool.",
+        "Grew free/paying user bases from 0 to 1000s/100s, landed OEM deal with a major vendor.",
+        "Participated in the acquisition of Restlet by Talend, due diligence and roadshow.",
+        "Established relationships that led to our first early adopters.",
+        "Spoke at numerous industry events.",
+        "Shipped production code as part of our multi-tenant PaaS for APIs, on AWS"
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Télécom ParisTech",
+      "url": "https://www.telecom-paris.fr/",
+      "area": "Computer Science",
+      "startDate": "2010",
+      "endDate": "2014",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Formal methods and concurrent systems applied to service-oriented architecture & telecoms.",
+        "Published and presented 4 papers in intl. journals and conferences (Taiwan, Beijing, Chicago, Paris)."
+      ]
+    },
+    {
+      "institution": "Université Paris VI (now Sorbonne Université)",
+      "url": "https://www.sorbonne-universite.fr/",
+      "area": "Computer Science",
+      "startDate": "2005",
+      "endDate": "2010",
+      "studyType": "Bachelor and Masters in Computer Science",
+      "courses": [
+        "Specialised in distributed systems and applications."
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "French",
+      "fluency": "Native speaker"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }

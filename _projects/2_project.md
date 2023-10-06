@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kubernetes Cookbook 2E
-description: Buildinc cloud-native applications
+description: Building cloud-native applications
 img: assets/img/cookbookimage.jpeg
 importance: 2
 ---

@@ -33,4 +33,15 @@ During my time at TriggerMesh we refocused the company and product on its most r
     GIF taken from a video I produced for the launch of tmctl, the new CLI for creating event-driven applications with TriggerMesh
 </div>
 
-You can see the original video that I made with voice commentary on [YouTube](https://youtu.be/eybEtJMipNE?si=Z3n2s3GDNU4ogxTj). 
+You can see the original video that I made with voice commentary on [YouTube](https://youtu.be/eybEtJMipNE?si=Z3n2s3GDNU4ogxTj).
+
+I also designed a new Console GUI for the TriggerMesh event broker and connectors that would help improve onboarding, debugging, and observability. Unfortunately we never got around to releasing it, but there was clear demand based on the validation I did:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tmconsole.gif" title="TriggerMesh console" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    GIF taken from a clickable prototype of the TriggerMesh console
+</div>
